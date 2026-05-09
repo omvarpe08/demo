@@ -1,2 +1,3 @@
 # demo
-Learning git
+Learning git<br>
+author : Om Varpe
