@@ -1,3 +1,3 @@
 # demo
 Learning git<br>
-author : Om Varpe
+author : Om Varpe Aiml
